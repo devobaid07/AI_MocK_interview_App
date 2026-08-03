@@ -38,7 +38,3 @@ An AI-powered mock interview web application that helps users practice for job i
 | Speech             | Web Speech API (Speech-to-Text & Text-to-Speech) |
 
 > No frameworks, no build tools — pure front-end web technologies.
-
----
-
-## Project Structure
